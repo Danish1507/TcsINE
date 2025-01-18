@@ -1,0 +1,1 @@
+{"name":"Local: prior","url":"c:\\Users\\mohmd\\OneDrive\\Desktop\\code\\TcsINE\\prior.cpp","tests":[{"id":1737180150036,"input":"7\n3 1 7 2 8 0 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mohmd\\OneDrive\\Desktop\\code\\TcsINE\\prior.cpp","group":"local","local":true}
