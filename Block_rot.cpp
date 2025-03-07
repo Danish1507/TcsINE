@@ -13,6 +13,8 @@ for(int i=0; i<n; i++){
  int k;
  cin>>k;
 
+ k=k%n;
+
 reverse(v.begin(),v.begin()+k);
 reverse(v.begin()+k,v.end());
 reverse(v.begin(),v.end());
